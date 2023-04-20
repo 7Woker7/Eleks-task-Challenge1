@@ -1,0 +1,15 @@
+D:\GitHub projects\Eleks-task-Users_web_service\Challenge1\Task2\bin\Debug\net6.0\Task2.exe
+D:\GitHub projects\Eleks-task-Users_web_service\Challenge1\Task2\bin\Debug\net6.0\Task2.deps.json
+D:\GitHub projects\Eleks-task-Users_web_service\Challenge1\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+D:\GitHub projects\Eleks-task-Users_web_service\Challenge1\Task2\bin\Debug\net6.0\Task2.dll
+D:\GitHub projects\Eleks-task-Users_web_service\Challenge1\Task2\bin\Debug\net6.0\ref\Task2.dll
+D:\GitHub projects\Eleks-task-Users_web_service\Challenge1\Task2\bin\Debug\net6.0\Task2.pdb
+D:\GitHub projects\Eleks-task-Users_web_service\Challenge1\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+D:\GitHub projects\Eleks-task-Users_web_service\Challenge1\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub projects\Eleks-task-Users_web_service\Challenge1\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+D:\GitHub projects\Eleks-task-Users_web_service\Challenge1\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+D:\GitHub projects\Eleks-task-Users_web_service\Challenge1\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+D:\GitHub projects\Eleks-task-Users_web_service\Challenge1\Task2\obj\Debug\net6.0\Task2.dll
+D:\GitHub projects\Eleks-task-Users_web_service\Challenge1\Task2\obj\Debug\net6.0\ref\Task2.dll
+D:\GitHub projects\Eleks-task-Users_web_service\Challenge1\Task2\obj\Debug\net6.0\Task2.pdb
+D:\GitHub projects\Eleks-task-Users_web_service\Challenge1\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
